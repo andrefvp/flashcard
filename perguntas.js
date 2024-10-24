@@ -1,17 +1,17 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'historia',
+    'quem descobriu o brasil?',
+    'Pedro Álvares Cabral'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'fisica',
+    'qual a velocidade da luz?',
+    '299 792 458 m / s'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'filosofia',
+    'de quem é a famosa frase "penso, logo existo"?',
+    'descartes'
 )
